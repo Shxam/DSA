@@ -496,3 +496,11 @@
 ---
 
 *Your contributions are most welcome! This guide is a living document that evolves with the community's needs and feedback.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Shxam/DSA/tree/master/0584-find-customer-referee) |
+<!---LeetCode Topics End-->
